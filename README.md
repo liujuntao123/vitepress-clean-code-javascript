@@ -1,3 +1,5 @@
+clean-code-javascript的vitepress站点。
+
 A vitepress site for clean-code-javascript.
 
 ## Why I create this project?
