@@ -1,4 +1,4 @@
-A vitepress site for clean-code-javascript
+A vitepress site for clean-code-javascript.
 
 ## Why I create this project?
 
